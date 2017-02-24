@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Maven + Spring MVC Web Project + Git + Gut hub Example Welcome *********</h1>
+<h1>Maven + Spring MVC Web Project + Git + Gut hub Example Welcome Pavan</h1>
  
 <h3>Message : ${message}</h3>
 <h3>Counter : ${counter}</h3>	
