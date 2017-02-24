@@ -107,9 +107,7 @@
 				<artifactId>tomcat7-maven-plugin</artifactId>
 				<version>2.2</version>
 				<configuration>
-				  <port>9090</port>
-
-					<path>/CounterWebApp</path>
+								<path>/CounterWebApp</path>
 				</configuration>
 			</plugin>
 
